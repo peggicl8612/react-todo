@@ -11,4 +11,5 @@ function Todo({todo}) {
 Todo.propTypes = {
     todo: PropTypes.func.isRequired,
 }
+
 export default Todo; 
